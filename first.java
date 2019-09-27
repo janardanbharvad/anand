@@ -2,7 +2,17 @@ class first
 {
 	public static void main(String[] ar)
 	{
-		System.out.println("hello world");
+		int a=10;
+		int b=11;
+		if(a==10)
+		{
+			System.out.println("wow");
+		}
+		else
+		{
+			System.out.println("ok");
+		}
 	}
 }
 
+		
