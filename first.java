@@ -4,6 +4,7 @@ class first
 	{
 		int a=10;
 		int b=11;
+		int c=12;
 		if(a==10)
 		{
 			System.out.println("wow");
